@@ -167,7 +167,7 @@ bodyStyle.style.color = "#67729D";
 
 //heading section
 const heading = document.createElement("h1");
-heading.textContent = "Rock, Paper, Scissor";
+heading.textContent = "Rock, Paper, Scissors";
 heading.style.fontSize = "4rem";
 heading.style.textAlign = "center";
 
